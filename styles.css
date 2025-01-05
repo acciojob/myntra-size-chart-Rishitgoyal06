@@ -1,2 +1,26 @@
+#table{
+	width:80%;
+	padding:1px;
+	margin:2px;
+	font-family:Arial;
+	text-align:center;
+	color:white;
+	border-collapse:collapse;
+}
 
-/* Your CSS Code here. */
+#head{
+	background-color:darkred;
+}
+
+#eg1{
+	background-color:orangered;
+}
+
+#eg2{
+	background-color:indianred;
+}
+
+#eg3{
+	background-color:lightpink;
+	color:black;
+}
